@@ -1,5 +1,4 @@
 # CREATE text editor
-readme file
 import sys
 
 v=sys.version()
